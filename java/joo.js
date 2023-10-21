@@ -1,0 +1,3 @@
+
+// aos start
+AOS.init();
